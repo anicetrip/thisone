@@ -1,0 +1,112 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LC203",
+            "request": "launch",
+            "mainClass": "LC203",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC21",
+            "request": "launch",
+            "mainClass": "LC21",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC383",
+            "request": "launch",
+            "mainClass": "LC383",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC36",
+            "request": "launch",
+            "mainClass": "LC36",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC118",
+            "request": "launch",
+            "mainClass": "LC118",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC1672",
+            "request": "launch",
+            "mainClass": "LC1672",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC1920",
+            "request": "launch",
+            "mainClass": "LC1920",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC350",
+            "request": "launch",
+            "mainClass": "LC350",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC566",
+            "request": "launch",
+            "mainClass": "LC566",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC824",
+            "request": "launch",
+            "mainClass": "LC824",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution1",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch dp1",
+            "request": "launch",
+            "mainClass": "dp.dp1",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch dp_coin_select",
+            "request": "launch",
+            "mainClass": "dp.dp_coin_select",
+            "projectName": "thisone_e6fafa0d"
+        }
+    ]
+}
