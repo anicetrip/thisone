@@ -3,9 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import javax.swing.border.Border;
-import javax.swing.text.StyledEditorKit.ForegroundAction;
-import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
+
 
 public class LC36 {
     public static void main(String[] args) {

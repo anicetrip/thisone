@@ -1,4 +1,3 @@
-import javax.lang.model.element.Element;
 
 public class LC21 {
 
@@ -108,7 +107,7 @@ public class LC21 {
     }
 }
 
-  class ListNode {
+  final class ListNode {
       int val;
       ListNode next;
       ListNode() {}

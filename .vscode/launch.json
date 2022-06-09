@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LC334",
+            "request": "launch",
+            "mainClass": "LC334",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC435",
+            "request": "launch",
+            "mainClass": "LC435",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC240",
+            "request": "launch",
+            "mainClass": "LC240",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC59",
+            "request": "launch",
+            "mainClass": "LC59",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC119",
+            "request": "launch",
+            "mainClass": "LC119",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC706",
+            "request": "launch",
+            "mainClass": "LC706",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC56",
+            "request": "launch",
+            "mainClass": "LC56",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC75",
+            "request": "launch",
+            "mainClass": "LC75",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC15",
+            "request": "launch",
+            "mainClass": "LC15",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC101",
+            "request": "launch",
+            "mainClass": "LC101",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC104",
+            "request": "launch",
+            "mainClass": "LC104",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC102",
+            "request": "launch",
+            "mainClass": "LC102",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
             "name": "Launch LC203",
             "request": "launch",
             "mainClass": "LC203",

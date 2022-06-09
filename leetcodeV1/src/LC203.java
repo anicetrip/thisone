@@ -70,7 +70,7 @@ public class LC203 {
     }
 }
 
-class ListNode {
+final class ListNode {
     int val;
     ListNode next;
 
