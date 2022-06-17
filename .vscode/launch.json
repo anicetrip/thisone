@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LC414",
+            "request": "launch",
+            "mainClass": "LC414",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LC763",
+            "request": "launch",
+            "mainClass": "LC763",
+            "projectName": "thisone_e6fafa0d"
+        },
+        {
+            "type": "java",
             "name": "Launch LC334",
             "request": "launch",
             "mainClass": "LC334",
