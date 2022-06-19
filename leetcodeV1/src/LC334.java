@@ -16,7 +16,7 @@ public class LC334 {
 
         for (int i = 0; i < nums.length - 1; i++) {
             if(nums[i] > mid){
-                return true;
+                return true; 
             }
             if(nums[i] > min){
                 mid = nums[i];
